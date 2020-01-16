@@ -1,0 +1,24 @@
+{
+"products": [
+[{"id":1,"name":"Colobus, black and white","category":"Blue"},
+{"id":2,"name":"Fox, crab-eating","category":"Indigo"},
+{"id":3,"name":"Squirrel, palm","category":"Red"},
+{"id":4,"name":"European wild cat","category":"Orange"},
+{"id":5,"name":"Pine siskin","category":"Pink"},
+{"id":6,"name":"Springbok","category":"Green"},
+{"id":7,"name":"Snake, western patch-nosed","category":"Orange"},
+{"id":8,"name":"Armadillo, nine-banded","category":"Violet"},
+{"id":9,"name":"Mouflon","category":"Green"},
+{"id":10,"name":"White-tailed jackrabbit","category":"Green"},
+{"id":11,"name":"Meerkat, red","category":"Crimson"},
+{"id":12,"name":"Netted rock dragon","category":"Pink"},
+{"id":13,"name":"Goose, cereopsis","category":"Fuscia"},
+{"id":14,"name":"Bleu, blue-breasted cordon","category":"Yellow"},
+{"id":15,"name":"Brown and yellow marshbird","category":"Goldenrod"},
+{"id":16,"name":"Bison, american","category":"Goldenrod"},
+{"id":17,"name":"Southern ground hornbill","category":"Green"},
+{"id":18,"name":"Possum, pygmy","category":"Puce"},
+{"id":19,"name":"Lesser masked weaver","category":"Khaki"},
+{"id":20,"name":"Duck, blue","category":"Violet"}]
+          ]
+}
